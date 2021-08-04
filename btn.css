@@ -1,0 +1,19 @@
+.btns{
+    width: 30%;
+    color: blanchedalmond;
+}
+#footer{
+    width: 100%;
+    text-align: right;
+    color: hotpink;
+}
+.btns, 
+#footer{
+font-weight: bold;
+background-color: lightgray;
+border: solid 20px grey;
+padding: 40px;
+border-radius: 20px;
+font-size: 40px;
+text-transform: capitalize;
+}
